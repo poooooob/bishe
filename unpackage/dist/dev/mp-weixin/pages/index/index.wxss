@@ -1,0 +1,69 @@
+
+/* 整体页面布局 */
+.container.data-v-1cf27b2a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 100vh;
+  background-color: #f0f8ff;
+}
+
+/* 顶部标题样式 */
+.header.data-v-1cf27b2a {
+  margin-top: 20px;
+}
+.title.data-v-1cf27b2a {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* 中部内容区域 */
+.content.data-v-1cf27b2a {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.photo-button.data-v-1cf27b2a {
+  width: 200px;
+  height: 50px;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 18px;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+}
+.photo-button.data-v-1cf27b2a:active {
+  background-color: #45a049;
+}
+
+/* 底部小提示和导航按钮 */
+.footer.data-v-1cf27b2a {
+  padding: 20px;
+  text-align: center;
+}
+.footer-text.data-v-1cf27b2a {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 10px;
+}
+.nav.data-v-1cf27b2a {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.nav-button.data-v-1cf27b2a {
+  width: 100px;
+  height: 35px;
+  background-color: #ff9800;
+  color: white;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+}
+.nav-button.data-v-1cf27b2a:active {
+  background-color: #fb8c00;
+}

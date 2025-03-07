@@ -1,0 +1,1 @@
+{"version":3,"file":"history.js","sources":["../../../Desktop/HBuilderX/HBuilderX/plugins/uniapp-cli-vite/uniPage:/cGFnZXMvaGlzdG9yeS9oaXN0b3J5LnZ1ZQ"],"sourcesContent":["import MiniProgramPage from 'C:/Users/hongchen/Documents/HBuilderProjects/Hello-uni-app-x/pages/history/history.vue'\nwx.createPage(MiniProgramPage)"],"names":[],"mappings":";;;;;;;AACA,GAAG,WAAW,eAAe;"}
